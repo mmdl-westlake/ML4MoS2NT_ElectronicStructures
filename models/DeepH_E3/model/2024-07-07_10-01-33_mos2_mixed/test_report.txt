@@ -1,0 +1,298 @@
+Test loss: 0.0000e+00
+
+------- Detailed losses of each target -------
+Losses are sorted in descending order
+
+======= No.000: Target 000 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 16': [0, 0], '16 42': [0, 0], '42 16': [0, 0], '42 42': [0, 0]}
+Position in H matrix:       {'16 16': [0, 1, 0, 1], '16 42': [0, 1, 0, 1], '42 16': [0, 1, 0, 1], '42 42': [0, 1, 0, 1]}
+
+======= No.001: Target 001 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 16': [0, 1], '16 42': [0, 1], '42 16': [0, 1], '42 42': [0, 1]}
+Position in H matrix:       {'16 16': [0, 1, 1, 2], '16 42': [0, 1, 1, 2], '42 16': [0, 1, 1, 2], '42 42': [0, 1, 1, 2]}
+
+======= No.002: Target 002 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'16 16': [0, 2], '16 42': [0, 3], '42 16': [0, 2], '42 42': [0, 3]}
+Position in H matrix:       {'16 16': [0, 1, 2, 5], '16 42': [0, 1, 3, 6], '42 16': [0, 1, 2, 5], '42 42': [0, 1, 3, 6]}
+
+======= No.003: Target 003 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'16 16': [0, 3], '16 42': [0, 4], '42 16': [0, 3], '42 42': [0, 4]}
+Position in H matrix:       {'16 16': [0, 1, 5, 8], '16 42': [0, 1, 6, 9], '42 16': [0, 1, 5, 8], '42 42': [0, 1, 6, 9]}
+
+======= No.004: Target 004 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'16 16': [0, 4], '16 42': [0, 5], '42 16': [0, 4], '42 42': [0, 5]}
+Position in H matrix:       {'16 16': [0, 1, 8, 13], '16 42': [0, 1, 9, 14], '42 16': [0, 1, 8, 13], '42 42': [0, 1, 9, 14]}
+
+======= No.005: Target 005 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 16': [1, 0], '16 42': [1, 0], '42 16': [1, 0], '42 42': [1, 0]}
+Position in H matrix:       {'16 16': [1, 2, 0, 1], '16 42': [1, 2, 0, 1], '42 16': [1, 2, 0, 1], '42 42': [1, 2, 0, 1]}
+
+======= No.006: Target 006 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 16': [1, 1], '16 42': [1, 1], '42 16': [1, 1], '42 42': [1, 1]}
+Position in H matrix:       {'16 16': [1, 2, 1, 2], '16 42': [1, 2, 1, 2], '42 16': [1, 2, 1, 2], '42 42': [1, 2, 1, 2]}
+
+======= No.007: Target 007 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'16 16': [1, 2], '16 42': [1, 3], '42 16': [1, 2], '42 42': [1, 3]}
+Position in H matrix:       {'16 16': [1, 2, 2, 5], '16 42': [1, 2, 3, 6], '42 16': [1, 2, 2, 5], '42 42': [1, 2, 3, 6]}
+
+======= No.008: Target 008 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'16 16': [1, 3], '16 42': [1, 4], '42 16': [1, 3], '42 42': [1, 4]}
+Position in H matrix:       {'16 16': [1, 2, 5, 8], '16 42': [1, 2, 6, 9], '42 16': [1, 2, 5, 8], '42 42': [1, 2, 6, 9]}
+
+======= No.009: Target 009 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'16 16': [1, 4], '16 42': [1, 5], '42 16': [1, 4], '42 42': [1, 5]}
+Position in H matrix:       {'16 16': [1, 2, 8, 13], '16 42': [1, 2, 9, 14], '42 16': [1, 2, 8, 13], '42 42': [1, 2, 9, 14]}
+
+======= No.010: Target 010 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 16': [2, 0], '16 42': [2, 0], '42 16': [3, 0], '42 42': [3, 0]}
+Position in H matrix:       {'16 16': [2, 5, 0, 1], '16 42': [2, 5, 0, 1], '42 16': [3, 6, 0, 1], '42 42': [3, 6, 0, 1]}
+
+======= No.011: Target 011 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 16': [2, 1], '16 42': [2, 1], '42 16': [3, 1], '42 42': [3, 1]}
+Position in H matrix:       {'16 16': [2, 5, 1, 2], '16 42': [2, 5, 1, 2], '42 16': [3, 6, 1, 2], '42 42': [3, 6, 1, 2]}
+
+======= No.012: Target 012 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 1)
+Target blocks:              {'16 16': [2, 2], '16 42': [2, 3], '42 16': [3, 2], '42 42': [3, 3]}
+Position in H matrix:       {'16 16': [2, 5, 2, 5], '16 42': [2, 5, 3, 6], '42 16': [3, 6, 2, 5], '42 42': [3, 6, 3, 6]}
+
+======= No.013: Target 013 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 1)
+Target blocks:              {'16 16': [2, 3], '16 42': [2, 4], '42 16': [3, 3], '42 42': [3, 4]}
+Position in H matrix:       {'16 16': [2, 5, 5, 8], '16 42': [2, 5, 6, 9], '42 16': [3, 6, 5, 8], '42 42': [3, 6, 6, 9]}
+
+======= No.014: Target 014 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 2)
+Target blocks:              {'16 16': [2, 4], '16 42': [2, 5], '42 16': [3, 4], '42 42': [3, 5]}
+Position in H matrix:       {'16 16': [2, 5, 8, 13], '16 42': [2, 5, 9, 14], '42 16': [3, 6, 8, 13], '42 42': [3, 6, 9, 14]}
+
+======= No.015: Target 015 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 16': [3, 0], '16 42': [3, 0], '42 16': [4, 0], '42 42': [4, 0]}
+Position in H matrix:       {'16 16': [5, 8, 0, 1], '16 42': [5, 8, 0, 1], '42 16': [6, 9, 0, 1], '42 42': [6, 9, 0, 1]}
+
+======= No.016: Target 016 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 16': [3, 1], '16 42': [3, 1], '42 16': [4, 1], '42 42': [4, 1]}
+Position in H matrix:       {'16 16': [5, 8, 1, 2], '16 42': [5, 8, 1, 2], '42 16': [6, 9, 1, 2], '42 42': [6, 9, 1, 2]}
+
+======= No.017: Target 017 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 1)
+Target blocks:              {'16 16': [3, 2], '16 42': [3, 3], '42 16': [4, 2], '42 42': [4, 3]}
+Position in H matrix:       {'16 16': [5, 8, 2, 5], '16 42': [5, 8, 3, 6], '42 16': [6, 9, 2, 5], '42 42': [6, 9, 3, 6]}
+
+======= No.018: Target 018 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 1)
+Target blocks:              {'16 16': [3, 3], '16 42': [3, 4], '42 16': [4, 3], '42 42': [4, 4]}
+Position in H matrix:       {'16 16': [5, 8, 5, 8], '16 42': [5, 8, 6, 9], '42 16': [6, 9, 5, 8], '42 42': [6, 9, 6, 9]}
+
+======= No.019: Target 019 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 2)
+Target blocks:              {'16 16': [3, 4], '16 42': [3, 5], '42 16': [4, 4], '42 42': [4, 5]}
+Position in H matrix:       {'16 16': [5, 8, 8, 13], '16 42': [5, 8, 9, 14], '42 16': [6, 9, 8, 13], '42 42': [6, 9, 9, 14]}
+
+======= No.020: Target 020 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'16 16': [4, 0], '16 42': [4, 0], '42 16': [5, 0], '42 42': [5, 0]}
+Position in H matrix:       {'16 16': [8, 13, 0, 1], '16 42': [8, 13, 0, 1], '42 16': [9, 14, 0, 1], '42 42': [9, 14, 0, 1]}
+
+======= No.021: Target 021 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'16 16': [4, 1], '16 42': [4, 1], '42 16': [5, 1], '42 42': [5, 1]}
+Position in H matrix:       {'16 16': [8, 13, 1, 2], '16 42': [8, 13, 1, 2], '42 16': [9, 14, 1, 2], '42 42': [9, 14, 1, 2]}
+
+======= No.022: Target 022 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 1)
+Target blocks:              {'16 16': [4, 2], '16 42': [4, 3], '42 16': [5, 2], '42 42': [5, 3]}
+Position in H matrix:       {'16 16': [8, 13, 2, 5], '16 42': [8, 13, 3, 6], '42 16': [9, 14, 2, 5], '42 42': [9, 14, 3, 6]}
+
+======= No.023: Target 023 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 1)
+Target blocks:              {'16 16': [4, 3], '16 42': [4, 4], '42 16': [5, 3], '42 42': [5, 4]}
+Position in H matrix:       {'16 16': [8, 13, 5, 8], '16 42': [8, 13, 6, 9], '42 16': [9, 14, 5, 8], '42 42': [9, 14, 6, 9]}
+
+======= No.024: Target 024 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 2)
+Target blocks:              {'16 16': [4, 4], '16 42': [4, 5], '42 16': [5, 4], '42 42': [5, 5]}
+Position in H matrix:       {'16 16': [8, 13, 8, 13], '16 42': [8, 13, 9, 14], '42 16': [9, 14, 8, 13], '42 42': [9, 14, 9, 14]}
+
+======= No.025: Target 025 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 42': [0, 2], '42 42': [0, 2]}
+Position in H matrix:       {'16 42': [0, 1, 2, 3], '42 42': [0, 1, 2, 3]}
+
+======= No.026: Target 026 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'16 42': [0, 6], '42 42': [0, 6]}
+Position in H matrix:       {'16 42': [0, 1, 14, 19], '42 42': [0, 1, 14, 19]}
+
+======= No.027: Target 027 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'16 42': [1, 2], '42 42': [1, 2]}
+Position in H matrix:       {'16 42': [1, 2, 2, 3], '42 42': [1, 2, 2, 3]}
+
+======= No.028: Target 028 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'16 42': [1, 6], '42 42': [1, 6]}
+Position in H matrix:       {'16 42': [1, 2, 14, 19], '42 42': [1, 2, 14, 19]}
+
+======= No.029: Target 029 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 42': [2, 2], '42 42': [3, 2]}
+Position in H matrix:       {'16 42': [2, 5, 2, 3], '42 42': [3, 6, 2, 3]}
+
+======= No.030: Target 030 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 2)
+Target blocks:              {'16 42': [2, 6], '42 42': [3, 6]}
+Position in H matrix:       {'16 42': [2, 5, 14, 19], '42 42': [3, 6, 14, 19]}
+
+======= No.031: Target 031 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 0)
+Target blocks:              {'16 42': [3, 2], '42 42': [4, 2]}
+Position in H matrix:       {'16 42': [5, 8, 2, 3], '42 42': [6, 9, 2, 3]}
+
+======= No.032: Target 032 =======
+Validation loss:            0
+Angular quantum numbers:    (1, 2)
+Target blocks:              {'16 42': [3, 6], '42 42': [4, 6]}
+Position in H matrix:       {'16 42': [5, 8, 14, 19], '42 42': [6, 9, 14, 19]}
+
+======= No.033: Target 033 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'16 42': [4, 2], '42 42': [5, 2]}
+Position in H matrix:       {'16 42': [8, 13, 2, 3], '42 42': [9, 14, 2, 3]}
+
+======= No.034: Target 034 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 2)
+Target blocks:              {'16 42': [4, 6], '42 42': [5, 6]}
+Position in H matrix:       {'16 42': [8, 13, 14, 19], '42 42': [9, 14, 14, 19]}
+
+======= No.035: Target 035 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'42 16': [2, 0], '42 42': [2, 0]}
+Position in H matrix:       {'42 16': [2, 3, 0, 1], '42 42': [2, 3, 0, 1]}
+
+======= No.036: Target 036 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'42 16': [2, 1], '42 42': [2, 1]}
+Position in H matrix:       {'42 16': [2, 3, 1, 2], '42 42': [2, 3, 1, 2]}
+
+======= No.037: Target 037 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'42 16': [2, 2], '42 42': [2, 3]}
+Position in H matrix:       {'42 16': [2, 3, 2, 5], '42 42': [2, 3, 3, 6]}
+
+======= No.038: Target 038 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 1)
+Target blocks:              {'42 16': [2, 3], '42 42': [2, 4]}
+Position in H matrix:       {'42 16': [2, 3, 5, 8], '42 42': [2, 3, 6, 9]}
+
+======= No.039: Target 039 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'42 16': [2, 4], '42 42': [2, 5]}
+Position in H matrix:       {'42 16': [2, 3, 8, 13], '42 42': [2, 3, 9, 14]}
+
+======= No.040: Target 040 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'42 16': [6, 0], '42 42': [6, 0]}
+Position in H matrix:       {'42 16': [14, 19, 0, 1], '42 42': [14, 19, 0, 1]}
+
+======= No.041: Target 041 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'42 16': [6, 1], '42 42': [6, 1]}
+Position in H matrix:       {'42 16': [14, 19, 1, 2], '42 42': [14, 19, 1, 2]}
+
+======= No.042: Target 042 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 1)
+Target blocks:              {'42 16': [6, 2], '42 42': [6, 3]}
+Position in H matrix:       {'42 16': [14, 19, 2, 5], '42 42': [14, 19, 3, 6]}
+
+======= No.043: Target 043 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 1)
+Target blocks:              {'42 16': [6, 3], '42 42': [6, 4]}
+Position in H matrix:       {'42 16': [14, 19, 5, 8], '42 42': [14, 19, 6, 9]}
+
+======= No.044: Target 044 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 2)
+Target blocks:              {'42 16': [6, 4], '42 42': [6, 5]}
+Position in H matrix:       {'42 16': [14, 19, 8, 13], '42 42': [14, 19, 9, 14]}
+
+======= No.045: Target 045 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 0)
+Target blocks:              {'42 42': [2, 2]}
+Position in H matrix:       {'42 42': [2, 3, 2, 3]}
+
+======= No.046: Target 046 =======
+Validation loss:            0
+Angular quantum numbers:    (0, 2)
+Target blocks:              {'42 42': [2, 6]}
+Position in H matrix:       {'42 42': [2, 3, 14, 19]}
+
+======= No.047: Target 047 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 0)
+Target blocks:              {'42 42': [6, 2]}
+Position in H matrix:       {'42 42': [14, 19, 2, 3]}
+
+======= No.048: Target 048 =======
+Validation loss:            0
+Angular quantum numbers:    (2, 2)
+Target blocks:              {'42 42': [6, 6]}
+Position in H matrix:       {'42 42': [14, 19, 14, 19]}
