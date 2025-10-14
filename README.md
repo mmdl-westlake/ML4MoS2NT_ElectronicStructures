@@ -86,11 +86,14 @@ sbatch scripts/DeepH_E3/model_inference/run_eval_band.sh
 If you use this code or dataset, please cite:
 
 > An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning
+> (Citation need to update)
 
 ---
 
 ## Contact
 
-For questions or contributions, please contact **Ju Huang** ([huangju33@gmail.com](mailto:huangju33@gmail.com)).
+For any questions, contributions and collaborations, please contact:
+**Ju Huang** ([huangju33@gmail.com](mailto:huangju33@gmail.com))
+**Wenbin Li** ([liwenbin@westlake.edu.cn](mailto:liwenbin@westlake.edu.cn))
 
 ---
