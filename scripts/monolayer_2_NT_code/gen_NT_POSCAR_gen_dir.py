@@ -194,7 +194,7 @@ def write_poscar(H1, elements, natom_M, npair_X, M_frac, X_frac1, X_frac2, chira
 
 def read_chiral_indices(filename):
     with open(filename, 'r') as f:
-        lines = f.readlines()[1:]  # Skip the header
+        lines = f.readlines()[1:]
         chiral_indices = [tuple(map(int, line.split())) for line in lines]
     return chiral_indices
 
@@ -202,8 +202,8 @@ if __name__ == "__main__":
     poscar_file = "POSCAR_MoS2"
     chiral_indices = read_chiral_indices('chiral_index.txt')
 
-    vacuum_layer = 15.0  # Adjust as needed
-    Lz_unrolled = 20.0  # Adjust as needed
+    vacuum_layer = 15.0 
+    Lz_unrolled = 20.0 
 
     for n, m in chiral_indices:
         fsave_name = f"MoS2_{n}_{m}"
