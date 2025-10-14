@@ -24,7 +24,9 @@ The dataset for fine-tuning CHGNet and training DeepH-E3 can be found at:
 ### 1. DeepH-pack Environment
 
 Install the DeepH-pack environment by following the instructions at:  
+
 [https://github.com/mzjb/DeepH-pack](https://github.com/mzjb/DeepH-pack)
+
 [https://github.com/Xiaoxun-Gong/DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)
 
 Or via conda:
