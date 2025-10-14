@@ -96,6 +96,6 @@ For any questions, contributions and collaborations, please contact:
 
 **Ju Huang** ([huangju33@gmail.com](mailto:huangju33@gmail.com))
 
-**Wenbin Li** ([liwenbin@westlake.edu.cn](mailto:liwenbin@westlake.edu.cn))
+**Prof. Wenbin Li** ([liwenbin@westlake.edu.cn](mailto:liwenbin@westlake.edu.cn))
 
 ---
