@@ -1,7 +1,7 @@
-# An Atlas of Chirality-Dependent Electronic Structures of \ce{MoS2} Nanotubes from Deep Learning
+# An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning
 
 This repository contains the models and inference scripts for the paper:  
-**"An Atlas of Chirality-Dependent Electronic Structures of \ce{MoS2} Nanotubes from Deep Learning"**
+**"An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning"**
 
 Developed by: **Ju Huang**
 
