@@ -25,6 +25,7 @@ The dataset for fine-tuning CHGNet and training DeepH-E3 can be found at:
 
 Install the DeepH-pack environment by following the instructions at:  
 [https://github.com/mzjb/DeepH-pack](https://github.com/mzjb/DeepH-pack)
+[https://github.com/Xiaoxun-Gong/DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)
 
 Or via conda:
 
@@ -54,7 +55,7 @@ conda env create -f chgnet.yml
 
 - Download the script: `chgnet_relax.py`
 - conda activate chgnet
-- Use it to perform structure optimization on \ce{MoS2} monolayers and nanotubes
+- Use it to perform structure optimization on MoS2 monolayers and nanotubes
 
 ### 2. Inference of Electronic Structure with DeepH-E3
 
@@ -76,16 +77,15 @@ sbatch scripts/DeepH_E3/model_inference/run_eval_band.sh
 
 ## Notes
 
-- The fine-tuned CHGNet and trained DeepH-E3 models in this repository are specifically for \ce{MoS2} systems (monolayer and nanotubes).
-- Please refer to the paper for details about the model architectures, training procedures, and scientific findings.
-
+- The fine-tuned CHGNet and trained DeepH-E3 models in this repository are specifically for MoS2 systems (monolayer and nanotubes).
+- Please refer to the paper for details about the research.
 ---
 
 ## Citation
 
 If you use this code or dataset, please cite:
 
-> An Atlas of Chirality-Dependent Electronic Structures of \ce{MoS2} Nanotubes from Deep Learning
+> An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning
 
 ---
 
