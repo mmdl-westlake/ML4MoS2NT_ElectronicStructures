@@ -15,10 +15,6 @@ for i in mos2_*_*; do
     start_time=$(date +%s)
     echo "overlap&inference $i started at: $(date)"
 
-    #cp /fs2/home/huangju/deeph_e3/three_model_compare/with_soc/test_bands/plot_band_scatter_each_k.py .
-
-    #python plot_band_scatter_each_k.py -t openmx -f png -i 200 -d -2 -u 2
-
     #refined_fermi_energy=$(jq 'refined_fermi_energy' band.json)
     #refined_fermi_energy=$(python -c "import json; print(json.load(open('band.json'))['refined_fermi_energy'])")
 
@@ -28,7 +24,6 @@ for i in mos2_*_*; do
     cp openmx_in.dat overlap/openmx_in.dat
     cd overlap
 
-    # Create and populate the inference.ini file
     mkdir inference
     cd inference
 
@@ -52,7 +47,6 @@ radius = -1.0
 create_from_DFT = True
 EOF
 
-    # Create and populate the band.json file in inference_band directory
     mkdir inference_band
     cd inference_band
 
@@ -67,10 +61,8 @@ EOF
 }
 EOF
 
-    # Navigate back to the overlap directory
     cd ../..
 
-    # Load necessary modules and run OpenMX
     module purge
     module load openmx/3.9-overlap-icc19-openmpi
 
@@ -79,7 +71,6 @@ EOF
 
     sleep 5
 
-    # Prepare for deeph-inference
     module purge
     cd ./inference/
 
@@ -89,14 +80,12 @@ EOF
     deeph-inference --config inference.ini
     echo "overlap&inference $i ended at: $(date)"
 
-    # Assuming you're submitting this script with SBATCH, extract CPU and node usage from this script itself
     cpus=$(grep -oP '#SBATCH -n \K\d+' "$0")
     echo "CPUs used for $i: $cpus"
 
     nodes=$(grep -oP '#SBATCH -N \K\d+' "$0")
     echo "nodes used for $i: $nodes"
 
-    # Navigate back to the starting directory
     #cd ../../..
     cd $base_directory
 done
