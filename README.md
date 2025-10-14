@@ -11,8 +11,8 @@ Developed by: **Ju Huang**
 
 This project aims to:
 
-- **Fine-tune the CHGNet model** for structural optimization of \ce{MoS2} systems.
-- **Train DeepH-E3** for predicting electronic band structures across the entire chirality space of \ce{MoS2} nanotubes.
+- **Fine-tune the CHGNet model** for structural optimization of MoS2 systems.
+- **Train DeepH-E3** for predicting electronic band structures across the entire chirality space of MoS2 nanotubes.
 
 The dataset for fine-tuning CHGNet and training DeepH-E3 can be found at:  
 [https://doi.org/10.6084/m9.figshare.30338542.v1](https://doi.org/10.6084/m9.figshare.30338542.v1)
