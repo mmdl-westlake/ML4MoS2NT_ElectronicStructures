@@ -32,7 +32,6 @@ dataset = StructureData(
     magmoms=magmoms,
 )
 
-# Use get_train_val_test_loader to split dataset
 train_loader, val_loader, test_loader = get_train_val_test_loader(
     dataset,
     batch_size=8,
