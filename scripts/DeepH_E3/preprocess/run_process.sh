@@ -14,7 +14,6 @@ export PATH="/fs2/home/huangju/software/DeepH-E3/:$PATH"
 
 directories=("n_m")
 
-# Iterate through the directory array
 for dir in "${directories[@]}"; do
 
     echo "preprocess $dir started at: $(date)"
