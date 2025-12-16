@@ -5,7 +5,7 @@ ICHARG = 11
 
 ## Accuracy
 PREC   =   Accurate
-ENCUT  =   500
+ENCUT  =   450
 LREAL  =   .FALSE.
 ALGO  = FAST      #(SCF minimisation algorithm; 38/48 combo)
 ADDGRID = .TRUE.
