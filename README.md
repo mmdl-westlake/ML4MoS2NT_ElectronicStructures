@@ -87,13 +87,14 @@ sbatch scripts/DeepH_E3/model_inference/run_eval_band.sh
 
 If you use this code or dataset, please cite:
 
-@article{huang2025atlas,
+```@article{huang2025atlas,
   title={An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning},
   author={Huang, Ju and Zhao, Shu and Gao, Junfeng and Xiang, Rong and Li, Wenbin},
   journal={ACS nano},
   year={2025},
   publisher={ACS Publications}
 }
+```
 
 ---
 
