@@ -1,7 +1,7 @@
 # An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning
 
 This repository contains the models and inference scripts for the paper:  
-**"An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning"**
+**"Huang, J., Zhao, S., Gao, J., Xiang, R. and Li, W., 2025. An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning. ACS nano."**
 
 Developed by: **Ju Huang**
 
@@ -87,8 +87,13 @@ sbatch scripts/DeepH_E3/model_inference/run_eval_band.sh
 
 If you use this code or dataset, please cite:
 
-> An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning
-> (Citation need to update)
+@article{huang2025atlas,
+  title={An Atlas of Chirality-Dependent Electronic Structures of MoS2 Nanotubes from Deep Learning},
+  author={Huang, Ju and Zhao, Shu and Gao, Junfeng and Xiang, Rong and Li, Wenbin},
+  journal={ACS nano},
+  year={2025},
+  publisher={ACS Publications}
+}
 
 ---
 
